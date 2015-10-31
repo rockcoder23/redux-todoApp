@@ -1,0 +1,18 @@
+{
+  "name": "redux-todoApp",
+  "version": "0.0.1",
+  "description": "Redux TodoApp example",
+  "scripts": {
+  },
+  "repository": {
+  },
+  "author": "kugua",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "redux": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-node":"^5.8.23"
+  }
+}
