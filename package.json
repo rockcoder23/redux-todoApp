@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Redux TodoApp example",
   "scripts": {
+    "test": "babel-node indextest.js"
   },
   "repository": {
   },
@@ -13,6 +14,6 @@
     "redux": "^3.0.0"
   },
   "devDependencies": {
-    "babel-node":"^5.8.23"
+    "babel":"^5.8.23"
   }
 }
